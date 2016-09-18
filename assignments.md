@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assignemnts
-header: Assignemnts
+title: Assignments
+header: Assignments
 group: navigation
 ---
 {% include JB/setup %}
