@@ -1,6 +1,6 @@
 ---
 layout: post
 title : Test Lesson
-category: Lesson
+category: lessons
 ---
 Some Sample Content
