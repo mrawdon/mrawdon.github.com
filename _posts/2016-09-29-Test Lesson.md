@@ -1,7 +1,7 @@
 ---
-layout:post
-title : Test Lesson
-category:lessons
+layout: post
+title: Test Lesson
+category: lessons
 ---
 Some content
 [Summer event flyer.docx](/uploads/Summer event flyer.docx)
